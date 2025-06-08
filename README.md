@@ -1,1 +1,1 @@
-Packages Used
+Packages Used : glob, Numpy, Matplot pyplot
